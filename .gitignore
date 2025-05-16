@@ -1,0 +1,9 @@
+# ### Ignorar node_modules en ambos subproyectos ###
+/backend/node_modules/
+/frontend/node_modules/
+
+/backend/.env
+/frontend/.env
+
+# Logs
+*.log
